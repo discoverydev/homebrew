@@ -1,2 +1,4 @@
-# homebrew
-Custom homebrew formulas and casks
+# homebrew-ipa
+
+Custom homebrew formulas and casks to go with discoverydev/my-boxen.
+
