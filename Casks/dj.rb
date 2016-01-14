@@ -1,4 +1,4 @@
-cask :v1 => 'dj' do
+cask :v1 => 'intellij1416' do
   version '14.1.6'
   sha256 '40b75e8f6645833cb6efef1f129cb3f7f8cd4256e80d759c0d89864ca564f198'
 
