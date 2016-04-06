@@ -1,6 +1,6 @@
 cask 'appium1413' do
   version '1.4.13'
-  sha256 '74fbb87e9459afe882199242264c23bf827bacccc4a6cafad966261203f0296f'
+  sha256 'c26fcd668c872b1f015d1c216a3883c7ccce16e399ffd29d7abef135fda6cbba'
 
   # bitbucket.org is the official download host per the vendor homepage
   url "https://bitbucket.org/appium/appium.app/downloads/appium-#{version}.dmg"
